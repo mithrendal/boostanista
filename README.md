@@ -2,10 +2,14 @@
 alternative remote for Lego Boost with Pythonista and iOS
 
 requirements
-  an iOS device with Bluetooth LE
-  an Lego Boost unit
-  pythonista development envirmonent for iOS https://itunes.apple.com/de/app/pythonista-3/id1085978097
+<ul>
+<li>an iOS device with Bluetooth LE</li>
+<li>an Lego Boost unit</li>
+<li>pythonista development envirmonent for iOS https://itunes.apple.com/de/app/pythonista-3/id1085978097</li>
+</ul>
 
 VERSION-HISTORY:
-V0.1 connects to the LegoHub and turns the LED lamp to green.
+<ul>
+<li>V0.1 connects to the LegoHub and turns the LED lamp to green.</li>
+</ul>
 
